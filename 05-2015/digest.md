@@ -9,3 +9,5 @@
 - Early vs Beggining coders - http://zedshaw.com/2015/06/16/early-vs-beginning-coders/
 - Software Craftsmenship Calendar 2016 project on Kickstarter - https://www.kickstarter.com/projects/988315286/software-craftsmanship-calendar-2016
 - Open Container Project - http://www.opencontainers.org/
+- Apple WWDC 2015 Videos - https://developer.apple.com/wwdc/
+- Google I/O 2015 Videos - https://events.google.com/io2015/videos
